@@ -13,4 +13,4 @@ A branch in GitHub is essentially a copy of your project's code<br> where you ca
 #### Steps to Create a Branch:
 1. Clone the repository
    + we had one commond to Clone
-      + "git clone <repository-url>"
+      + "git clone repository-url"
