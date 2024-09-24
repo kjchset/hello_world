@@ -35,12 +35,18 @@ A branch in GitHub is essentially a copy of your project's code<br> where you ca
 ### Creating a Pull Request (PR) in GitHub
 #### Steps to Create a Pull Request:
 ##### 1. Go to your GitHub repository
-      + Visit the repository in your browser.
+        Visit the repository in your browser.
 ##### 2.Navigate to the "Pull Requests" tab
-       + At the top of the repository page, click on the "Pull requests" tab.
+         At the top of the repository page, click on the "Pull requests" tab.
 ##### 3.Click on "New Pull Request" 
-       + On the right-hand side, you’ll see a green button labeled "New Pull Request."
-##### 4.Write a meaningful PR title and description
-        + Title: A brief description of what the PR is about.
-        + Description: Provide a more detailed explanation of the changes you made, why they were necessary, and any additional context.
+         On the right-hand side, you’ll see a green button labeled "New Pull Request."
+##### 4.Write a meaningful Pull Request title and description
+          Title: A brief description of what the PR is about.
+          Description: Provide a more detailed explanation of the changes you made, why they were necessary, and any additional context.
+##### 5. Create the Pull Request  
+           Once everything is filled out, click the green "Create Pull Request" button.
+##### 6. Review and Approval 
+            After creating the PR, team members can review your changes, add comments, and request modifications if needed.
+            Once approved, the changes can be merged into the main branch
+         
    
