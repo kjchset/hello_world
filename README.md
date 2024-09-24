@@ -48,5 +48,20 @@ A branch in GitHub is essentially a copy of your project's code<br> where you ca
 ##### 6. Review and Approval 
             After creating the PR, team members can review your changes, add comments, and request modifications if needed.
             Once approved, the changes can be merged into the main branch
+    After  creation of pull request we have to merge pull request
+### Merging a Pull Request (PR) in GitHub
+         Once your Pull Request (PR) is created and reviewed, the final step is to merge it into the main branch
+#### Steps to Merge a PR:
+##### 1.Review the PR
+        Ensure that the code has been reviewed and approved by team members.
+        Address any comments or requested changes from reviewers.
+##### 2.Click the "Merge Pull Request" button 
+        Once the PR is approved, and there are no conflicts
+        you’ll see a green "Merge Pull Request" button at the bottom of the PR.
+        Click on it.
+##### 3.Confirm the Merge  
+        After clicking "Merge Pull Request", confirm the action by clicking the "Confirm Merge" button.
+##### 4.Delete the branch 
+        Delete the branch 
          
    
