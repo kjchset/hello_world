@@ -11,3 +11,6 @@ once we commited which means that
 ### Creating a Branch
 A branch in GitHub is essentially a copy of your project's code<br> where you can make changes without affecting the main (or primary) codebase.
 #### Steps to Create a Branch:
++ Clone the repository
+   + we had one commond to Clone
+      + "git clone <repository-url>"
