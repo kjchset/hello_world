@@ -31,5 +31,16 @@ A branch in GitHub is essentially a copy of your project's code<br> where you ca
          You can experiment with new ideas or test code without breaking the main project.
  + ###### Pull Requests:
          After completing work on a branch, you can create a pull request to merge the changes into the main branch.
-         This allows other team members to review the code before it's merged.  
+         This allows other team members to review the code before it's merged.
+### Creating a Pull Request (PR) in GitHub
+#### Steps to Create a Pull Request:
+##### 1. Go to your GitHub repository
+      + Visit the repository in your browser.
+##### 2.Navigate to the "Pull Requests" tab
+       + At the top of the repository page, click on the "Pull requests" tab.
+##### 3.Click on "New Pull Request" 
+       + On the right-hand side, you’ll see a green button labeled "New Pull Request."
+##### 4.Write a meaningful PR title and description
+        + Title: A brief description of what the PR is about.
+        + Description: Provide a more detailed explanation of the changes you made, why they were necessary, and any additional context.
    
