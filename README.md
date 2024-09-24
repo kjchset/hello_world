@@ -30,5 +30,6 @@ A branch in GitHub is essentially a copy of your project's code<br> where you ca
  + ###### Testing: 
          You can experiment with new ideas or test code without breaking the main project.
  + ###### Pull Requests:
-         After completing work on a branch, you can create a pull request to merge the changes into the main branch.<br> This allows other team members to review the code before it's merged.  
+         After completing work on a branch, you can create a pull request to merge the changes into the main branch.
+         This allows other team members to review the code before it's merged.  
    
