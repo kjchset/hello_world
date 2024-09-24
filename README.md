@@ -17,10 +17,10 @@ A branch in GitHub is essentially a copy of your project's code<br> where you ca
 ###### "git clone https://github.com/kiranraj557/image_editor.git"
 ##### 2. Create a new branch:
       we also have command to create branch
-       ######  "git checkout -b "requriments"
+        "git checkout -b "requriments"
        This command creates new branch <br> and Switched to a new branch 'requriments'
 ##### 3. push the branch to git hub
-      ###### git push origin requriments
+       git push origin requriments
   This sends our newly created branch "requiremnts" to GitHub.
 ### Purpose of Creating a Branch:
  + ###### Isolated Development:
