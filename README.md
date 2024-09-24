@@ -6,4 +6,5 @@ this is new text
 add to all files by using command
 git add .
 ### for commit
-we can use command ** git commit**
+we can use command ** git commit -m "we must write message when commiting**
+once we commited which means that 
