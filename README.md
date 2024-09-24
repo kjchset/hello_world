@@ -20,5 +20,5 @@ A branch in GitHub is essentially a copy of your project's code<br> where you ca
         +  "git checkout -b "requriments"
        This command creates new branch and Switched to a new branch 'requriments'
 3. push the branch to git hub
-     +
+     + git push origin requriments
    
